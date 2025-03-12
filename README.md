@@ -7,7 +7,7 @@ A simple Python script to automate posting to X.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/x-posts.git
+   git clone https://github.com/gusleig/twitter-x-posts.git
    cd x-posts
    ```
 
