@@ -1,21 +1,24 @@
 # X-Posts
 
-A simple Python script to automate posting to Twitter.
+A simple Python script to automate posting to X.
 
 ## Setup
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/yourusername/x-posts.git
    cd x-posts
    ```
 
 2. Install the required dependencies:
+
    ```bash
    pip install -r requirements.txt
    ```
 
 3. Create a `credentials.json` file by copying `example.credentials.json` and filling in your Twitter API credentials:
+
    ```bash
    cp example.credentials.json credentials.json
    ```
@@ -33,6 +36,7 @@ A simple Python script to automate posting to Twitter.
 ## Usage
 
 Run the script to post to Twitter:
+
 ```bash
 python twitter_poster.py
 ```
